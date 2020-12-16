@@ -1,2 +1,1 @@
-# matplotlib-challenge
-Data bootbamp matplotlib homework
+# matplotlib project
